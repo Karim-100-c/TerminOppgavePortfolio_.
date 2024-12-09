@@ -1,0 +1,24 @@
+body{
+background-color: rgba(83, 77, 77, 0.747) ;
+}
+
+.kolonne{
+    width: 50%;
+    margin: auto;
+    background-color: rgb(95, 78, 78);
+    padding: 50px;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid #1c2016;
+    
+}
+
+.top{
+    padding: 10px;
+}
+
+.nav-link {
+text-align: center;
+
+
+}
